@@ -1,0 +1,12 @@
+{
+  "permanent": [
+    "admin:1234",
+    "vip:vip123"
+  ],
+  "week": {
+    "testweek:weekpass": "2025-04-13T23:59:59"
+  },
+  "month": {
+    "testmonth:monthpass": "2025-05-06T23:59:59"
+  }
+}
