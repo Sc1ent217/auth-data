@@ -1,12 +1,14 @@
 {
   "permanent": [
-    "admin:1234",
-    "vip:vip123"
+    "premus1:pr45",
+    "sc12:vid20"
   ],
   "week": {
-    "testweek:weekpass": "2025-04-13T23:59:59"
+    "harweek:42": "2025-04-21T23:59:59",
+    "konv12:ko37": "2025-04-21T23:59:59"
   },
   "month": {
-    "testmonth:monthpass": "2025-05-06T23:59:59"
+    "hadmon1:hanmon15": "2025-05-06T23:59:59",
+    "hadm1:hanm158": "2025-05-06T23:59:59"
   }
 }
