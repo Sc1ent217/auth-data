@@ -1,18 +1,30 @@
 {
   "permanent": [
-    "perm6:pr40",
-    "45:45",
-    "prover1:pr495",
-    "adscient:adsc1",
-    "premdr:23ref",
-    "sc12:vid20"
+    {
+      "username": "perm6",
+      "password": "pr40",
+      "hwid": "3EA6D610-5861-EC11-80E2-088FC33661DD"
+    },
+    {
+      "username": "45",
+      "password": "45",
+      "hwid": "D45F6A2B-82C2-1FEC-0F3D-8D9FDF71F6E4"
+    }
   ],
-  "week": {
-    "harweek:42": "2025-04-21T23:59:59",
-    "konv12:ko37": "2025-04-21T23:59:59"
-  },
-  "month": {
-    "hadmon1:hanmon15": "2025-05-06T23:59:59",
-    "hadm1:hanm158": "2025-05-06T23:59:59"
-  }
+  "week": [
+    {
+      "username": "harweek",
+      "password": "42",
+      "hwid": "5AA14B7A-2E89-1FEC-9A1B-94C90AF77F65",
+      "expiry": "2025-04-21T23:59:59"
+    }
+  ],
+  "month": [
+    {
+      "username": "hadmon1",
+      "password": "hanmon15",
+      "hwid": "BA531EC9-5F94-83AC-5D8B-8E03A3B13E3B",
+      "expiry": "2025-05-06T23:59:59"
+    }
+  ]
 }
