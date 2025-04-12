@@ -1,8 +1,8 @@
 {
   "permanent": [
-    "adscient:adsc",
-    "prov1:pr495",
-    "premus1:pr45",
+    "prover1:pr495",
+    "adscient:adsc1",
+    "premdr:23ref"
     "sc12:vid20"
   ],
   "week": {
