@@ -1,13 +1,28 @@
 {
   "permanent": [
     {
-      "username": "perm6",
-      "password": "pr40",
+      "username": "prem1",
+      "password": "pr46",
       "hwid": "3EA6D610-5861-EC11-80E2-088FC33661DD"
     },
     {
-      "username": "45",
-      "password": "45",
+      "username": "9",
+      "password": "9",
+      "hwid": "3EA6D610-5861-EC11-80E2-088FC33661DD"
+    },
+    {
+      "username": "tr4",
+      "password": "tr4",
+      "hwid": "3EA6D610-5861-EC11-80E2-088FC33661DD"
+    },
+    {
+      "username": "adsc",
+      "password": "adsc",
+      "hwid": "3EA6D610-5861-EC11-80E2-088FC33661DD"
+    },
+    {
+      "username": "12",
+      "password": "12",
       "hwid": "3EA6D610-5861-EC11-80E2-088FC33661DD"
     }
   ],
