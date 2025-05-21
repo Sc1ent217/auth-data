@@ -1,0 +1,45 @@
+{
+  "permanent": [
+    {
+      "username": "prem1",
+      "password": "pr46",
+      "hwid": "3EA6D610-5861-EC11-80E2-088FC33661DD"
+    },
+    {
+      "username": "9",
+      "password": "9",
+      "hwid": "AD1592FE-0125-FA4A-82C6-ACFFB6061E4B"
+    },
+    {
+      "username": "tr4",
+      "password": "tr4",
+      "hwid": "1147C45E-8105-5D4A-A55F-A77972DB21B5"
+    },
+    {
+      "username": "adsc",
+      "password": "adsc",
+      "hwid": "3EA6D610-5861-EC11-80E2-088FC33661DD"
+    },
+    {
+      "username": "12",
+      "password": "12",
+      "hwid": "3EA6D610-5861-EC11-80E2-088FC33661DD"
+    }
+  ],
+  "week": [
+    {
+      "username": "harweek",
+      "password": "42",
+      "hwid": "03C00218-044D-0552-D106-A80700080009",
+      "expiry": "2025-05-28T23:59:59"
+    }
+  ],
+  "month": [
+    {
+      "username": "hadmon1",
+      "password": "hanmon15",
+      "hwid": "BA531EC9-5F94-83AC-5D8B-8E03A3B13E3B",
+      "expiry": "2025-05-06T23:59:59"
+    }
+  ]
+}
