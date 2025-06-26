@@ -1,0 +1,19 @@
+[
+  {
+    "uuid": "123e4567-e89b-12d3-a456-426614174000",
+    "password": "mysecurepass",
+    "type": "month",
+    "expires": "2025-07-26T00:00:00"
+  },
+  {
+    "uuid": "00001111-2222-3333-4444-555566667777",
+    "password": "permanentpass",
+    "type": "forever"
+  },
+  {
+    "uuid": "aaaa-bbbb-cccc-dddd-eeeeffff0000",
+    "password": "trialpass",
+    "type": "trial",
+    "expires": "2025-06-30T23:59:59"
+  }
+]
